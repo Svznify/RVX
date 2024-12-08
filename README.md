@@ -60,7 +60,7 @@
 
 
 ## Note: Official Website/Features
-Here:  https://MaVeN-LLC.github.io/RVX/
+Here:   https://svznify.github.io/RVX/
 # FEATURES
 - Material You Support
 - NO ADS
