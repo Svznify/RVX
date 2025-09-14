@@ -34,7 +34,7 @@ RVX (ReVanced Extended) is a fork of ReVanced with additional features and impro
 
 **This project is built on [Node.js](https://nodejs.org/).**
 
-**Official Website:** https://svznify.github.io/RVX/
+**Project Website:** https://svznify.github.io/RVX/
 
 ## ✨ Features
 
@@ -155,13 +155,13 @@ We welcome contributions! Here's how you can help:
 - **YouTube:** [@ReVanced](https://www.youtube.com/@ReVanced)
 
 ### Download Sources
-- **Official Releases:** [Svznify/RVX](https://github.com/Svznify/RVX/releases)
+- **Latest Releases:** [Svznify/RVX](https://github.com/Svznify/RVX/releases)
 - **MicroG:** [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases)
 
 ---
 
 <div align="center">
-  <p><strong>⚠️ Disclaimer:</strong> This is an unofficial distribution of ReVanced Extended. All downloads are official, safe, and built using the RVX-Builder tool.</p>
+  <p><strong>⚠️ Disclaimer:</strong> This is an unofficial distribution of ReVanced Extended. All downloads are safe and built using the RVX-Builder tool.</p>
   
   <p>Made with ❤️ by the ReVanced community</p>
 </div>
