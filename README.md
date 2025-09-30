@@ -1,7 +1,6 @@
-# RVX - ReVanced Extended
 
 <p align="center">
-  <img width="256px" src="https://github.com/inotia00/revanced-manager/raw/main/assets/revanced-headline/revanced-headline-vertical-dark.svg" alt="ReVanced Logo" />
+<img width="510" height="566" alt="image" src="https://github.com/user-attachments/assets/b9ed83ed-193a-4580-b9b8-4a8f925d9943" / 
   <br><br>
   <!-- Badges -->
   <a href="https://revanced.app/"><img src="https://img.shields.io/badge/Website-revanced.app-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
