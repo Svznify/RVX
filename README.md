@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="510" height="566" alt="image" src="https://github.com/user-attachments/assets/b9ed83ed-193a-4580-b9b8-4a8f925d9943" / 
+<img width="510" height="566" alt="image" src="https://github.com/user-attachments/assets/b9ed83ed-193a-4580-b9b8-4a8f925d9943" /> 
   <br><br>
   <!-- Badges -->
   <a href="https://revanced.app/"><img src="https://img.shields.io/badge/Website-revanced.app-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
