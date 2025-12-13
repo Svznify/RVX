@@ -15,153 +15,134 @@
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Built%20with-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 </p>
 
-## 📋 Table of Contents
+---
 
-- [About](#about)
-- [Features](#features)
-- [Download](#download)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Built With](#built-with)
-- [Links](#links)
+> ⚠️ **Unofficial Distribution Notice**
+> This repository is **not affiliated with or endorsed by ReVanced or ReVanced Extended**.
+> All credits belong to their respective developers.
 
-## 🎯 About
+---
 
-RVX (ReVanced Extended) is a fork of ReVanced with additional features and improvements, made by [inotia00](https://github.com/inotia00). It provides an enhanced version of YouTube that offers an ad-free experience with additional features and customization options. This repository serves as a distribution point for pre-built APKs of ReVanced Extended and YT-Music.
+## 📦 About
 
-**This project is built on [Node.js](https://nodejs.org/).**
+**RVX (ReVanced Extended)** is a community-maintained fork of ReVanced created by **inotia00**, offering additional features and customization for YouTube and YouTube Music.
 
-**Project Website:** https://svznify.github.io/RVX/
+This repository exists **only to distribute pre-built APKs** created using public, upstream tools.
+
+🌐 **Project Page:** [https://svznify.github.io/RVX/](https://svznify.github.io/RVX/)
+
+---
 
 ## ✨ Features
 
-- **🎨 Material You Support** - Modern Android design language integration
-- **🚫 No Ads** - Completely ad-free YouTube experience
-- **🌙 Dark Mode** - Built-in dark theme support
-- **📺 Picture-in-Picture (PiP)** - Watch videos while using other apps
-- **⬇️ Video Downloads** - Download videos through:
-  - Seal
-  - NewPipe (with SponsorBlock modifications)
-  - YTDL
-- **⚙️ Customizable Settings** - Extensive configuration options
-- **🔒 Non-Root Solution** - Works without device root access
+* Ad-free playback
+* Material You support
+* Picture-in-Picture (PiP)
+* SponsorBlock integration
+* Advanced customization
+* Works without root (MicroG required)
 
-## 📥 Download
+---
 
-### Latest Releases
-Visit our [Releases page](https://github.com/Svznify/RVX/releases) for the most recent stable and beta versions.
+## 📥 Downloads
 
-### Required Dependencies
+➡️ **Releases:** [https://github.com/Svznify/RVX/releases](https://github.com/Svznify/RVX/releases)
 
-**⚠️ IMPORTANT:** You must install MicroG to make the app work properly on **non-rooted** devices.
+> ⚠️ **MicroG Required (Non-Root Users)**
+> You must install MicroG for login and playback to work.
 
-**Download MicroG:** [microg-release.apk](https://github.com/WSTxda/MicroG-RE/releases/download/5.11/microg-release.apk)
+🔗 [https://github.com/WSTxda/MicroG-RE/releases](https://github.com/WSTxda/MicroG-RE/releases)
 
-This MicroG app is specially modified with:
-- Clean, modern UI
-- Better user experience
-- Improved sign-in functionality
-- Enhanced compatibility
+---
 
 ## 📱 Installation
 
-1. **Download the APK** from the [Releases page](https://github.com/Svznify/RVX/releases)
-2. **Install MicroG** first (**required for non-rooted users**)
-3. **Install the RVX APK**
-4. **Sign in** to your Google account through MicroG
-5. **Enjoy** your ad-free YouTube experience!
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+1. Download the APK from **Releases**
+2. Install **MicroG** (non-root only)
+3. Install the **RVX APK**
+4. Sign in via MicroG
+5. Done
+
+</details>
+
+---
 
 ## ⚙️ Configuration
 
-The app includes various configuration options that can be customized through the settings menu. Default configurations are provided in the `patch.txt` file, including:
+<details>
+<summary><strong>Advanced Settings</strong></summary>
 
-- Default video quality settings
-- SponsorBlock preferences
-- Navigation button visibility
-- Create button placement
-- And more...
+Configuration is handled in-app. Default values come from `patch.txt`, including:
+
+* Video quality defaults
+* SponsorBlock behavior
+* Navigation layout
+* UI tweaks
+
+</details>
+
+---
 
 ## 🔧 Troubleshooting
 
-### Common Issues
+<details>
+<summary><strong>Common Issues</strong></summary>
 
-1. **App won't start after installation**
-   - Ensure MicroG is installed and properly configured
-   - Check that you're signed in to your Google account
+**App won’t open**
 
-2. **Videos not playing**
-   - Verify your internet connection
-   - Try clearing app cache and data
+* Ensure MicroG is installed and logged in
 
-3. **Download features not working**
-   - Ensure you have the required download apps installed (Seal, NewPipe, etc.)
-   - Check app permissions
+**Videos won’t play**
 
-### Getting Help
+* Check connection
+* Clear app data
 
-- **Discord:** Join our [Discord server](http://revanced.app/discord)
-- **Reddit:** Visit [r/revancedapp](https://reddit.com/r/revancedapp)
-- **Telegram:** Follow [@app_revanced](https://t.me/app_revanced)
+**Downloads missing**
 
-## 🐛 Bug Reports & Feature Requests
+* Install Seal / NewPipe / YTDL
 
-### For ReVanced Extended Issues
+</details>
 
-If you encounter bugs or want to request new features for ReVanced Extended, please:
+---
 
-1. **Open an issue** at [ReVanced Extended Issues](https://github.com/inotia00/ReVanced_Extended/issues/new)
-2. **Include detailed information** about your problem
-3. **Attach logs.txt** if possible (for bug reports)
-4. **Provide sample queries and results** (for feature requests)
+## 🆘 Getting Help
 
-## 🤝 Contributing
+<details>
+<summary><strong>Support Options</strong></summary>
 
-We welcome contributions! Here's how you can help:
+* Open an **issue** in this repository
+* Ask in the **official RVX / ReVanced Extended community**
 
-- **Report Issues** - Help us identify and fix bugs
-- **Share Feedback** - Let us know about your experience
-- **Spread the Word** - Share with friends and family
-- **Support Development** - Consider supporting the developers
+When reporting bugs, include:
 
-## 🛠️ Built With
+* App version
+* Device & Android version
+* Logs (if available)
 
-- **[ReVanced Patches](https://github.com/ReVanced/revanced-patches)** - Core patches for YouTube modifications
-- **[ReVanced Manager](https://github.com/ReVanced/revanced-manager)** - Android app for managing ReVanced installations
-- **[ReVanced CLI](https://github.com/ReVanced/revanced-cli)** - Command-line interface for building ReVanced apps
-- **[RVX-Builder](https://github.com/inotia00/rvx-builder)** - PC-based APK building tool used to create YouTube ReVanced Extended APKs
+</details>
 
-## 🔗 Links
+---
 
-### ReVanced Extended Channels
-- **GitHub Documentation:** [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation#readme)
-- **Discord:** [ReVanced Extended Server](https://discord.gg/yMnc3EywRZ)
-- **Reddit:** [r/revancedextended](https://reddit.com/r/revancedextended)
-- **Telegram:** [@revanced_extended](https://t.me/revanced_extended)
-- **Telegram Chat:** [@revanced_extended_chat](https://t.me/revanced_extended_chat)
-- **Telegram Repo:** [@revanced_extended_repo](https://t.me/revanced_extended_repo)
-- **Crowdin Translation:** [ReVanced Extended](https://crowdin.com/project/revancedextended)
-- **Crowdin Music Translation:** [ReVanced Music Extended](https://crowdin.com/project/revancedmusicextended)
+## ❤️ Credits
 
-### Original ReVanced Channels
-- **Website:** [revanced.app](https://revanced.app/)
-- **GitHub:** [github.com/ReVanced](https://github.com/ReVanced)
-- **Discord:** [revanced.app/discord](http://revanced.app/discord)
-- **Reddit:** [r/revancedapp](https://reddit.com/r/revancedapp)
-- **Telegram:** [@app_revanced](https://t.me/app_revanced)
-- **Twitter/X:** [@revancedapp](https://x.com/revancedapp)
-- **YouTube:** [@ReVanced](https://www.youtube.com/@ReVanced)
+<details>
+<summary><strong>Upstream Projects & Contributors</strong></summary>
 
-### Download Sources
-- **Latest Releases:** [Svznify/RVX](https://github.com/Svznify/RVX/releases)
-- **MicroG:** [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases)
+* **inotia00** — ReVanced Extended
+* **ReVanced Team** — Patches, Manager, CLI
+* **RVX-Builder** — APK build tooling
+* Open-source contributors
+
+</details>
 
 ---
 
 <div align="center">
-  <p><strong>⚠️ Disclaimer:</strong> This is an unofficial distribution of ReVanced Extended. All downloads are safe and built using the RVX-Builder tool.</p>
-  
-  <p>Made with ❤️ by the ReVanced community</p>
-</div>
 
+⚠️ **Legal Notice**
+This project does not host proprietary content. APKs are built using publicly available tools and patches.
+
+</div>
