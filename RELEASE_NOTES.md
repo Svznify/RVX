@@ -9,7 +9,8 @@ Thank you for trusting Svznify's RVX releases for YouTube RVX (made by [inotia00
 ## Important: [Update or Download MicroG](https://github.com/WSTxda/MicroG-RE/releases/download/5.13/microg-release.apk)
 - This is for non-root Android users
 
-[TUTORIAL FOR BEST EXPERIENCE] Please follow the tutorial.
+## [Optional]: Import my settings.txt for the best experience
+Tutorial:
 - Download the .txt file _here_ - [Download Settings.txt File](https://github.com/Svznify/RVX/releases/download/v19.47.53/patch.txt)
 - Install and Open YouTube RVX 
 - Go to Settings, scroll down, and Click "ReVanced Extended" then "Miscellaneous"
